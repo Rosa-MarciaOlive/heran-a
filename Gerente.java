@@ -24,17 +24,17 @@ public class Gerente{
         this.salario=salario;
     }
     public double getSalario(){
-        return this.nome;
+        return this.salario;
     }
 
-    public void String setDepartamento(String departamento){
+    public void setDepartamento(String departamento){
         this.departamento=departamento;
     }
     public String getDepartamento(){
         return this.departamento;
     } 
 
-    public void int setSenha(int senha){
+    public void setSenha(int senha){
         this.senha=senha;
     }
     public int getSenha(){
